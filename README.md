@@ -34,11 +34,12 @@ This project is a web-based application for managing insurance cases, developed 
 
 Includes:
 
-    Authentication (login/register)
+-Authentication (login/register)
 
-    Basic routes, controllers & views
+-Basic routes, controllers & views
 
-    Integration with Tailwind, Vite, Alpine
+-Integration with Tailwind, Vite, Alpine
+
 -Bootstrap 5 – Responsive CSS framework 
 
 -jQuery – Required for some Bootstrap and DataTables features
