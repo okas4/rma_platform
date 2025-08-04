@@ -58,7 +58,7 @@ Make sure you have installed:
 1. **Clone the repository** or download the ZIP and place it in your XAMPP `htdocs` folder:
 
     ```bash
-    git clone https://your-repository-url.git
+    git clone https://github.com/okas4/rma_platform.git
     ```
 
 2. **Start XAMPP**, then launch **Apache** and **MySQL**.
